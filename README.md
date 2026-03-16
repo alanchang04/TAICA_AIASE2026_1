@@ -20,6 +20,7 @@
 ---
 
 ## Announcement
+- 3/18 Invited Talk
  <p align="center">
   <img src="318_invitedtalk.png" width="300">
 </p>
