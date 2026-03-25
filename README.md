@@ -64,6 +64,8 @@ ___
 | W1 | [課程介紹、Markdown 作為 AI 溝通語言](W1.md) |
 | W2 | [Basis of Vibe Coding](W2.md)、[StockCheck CLI PRD](W2-Supplement1.md)、[StockCheck CLI SDD](W2-Supplement2.md)、[StockHeatMap SDD 教學 Notebook](W2_StockHeatMap_v3.ipynb) |
 | W3 | [From Agentic Product to Agentic Engineering](W3.md) — AI 時代職場衝擊與應變、Agentic Engineering 概念與實務、CLI 優先的 AI 編程工作流、Agent 架構設計（ReAct / Reflection / Multi-Agent）、Spec-Driven Development、可觀測性與防禦性設計 |
+| W5 | [Practice of Agentic Coding](W5.md) — SDLC 劇變與多代理協調、AGENTS.md 與 Context Engineering、Skill vs. Sub-Agent 架構決策、可驗證性分界線（Karpathy）、Harness Engineering 三大支柱、Claude Code 六組件實戰、RPI 工作流與 No Vibes Allowed、AI 輔助學習的成效陷阱 |
+
 
 ---
 
